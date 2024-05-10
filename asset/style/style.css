@@ -1,0 +1,58 @@
+.container img{
+    height: 500px;
+    object-fit: cover;
+}
+.row2{
+    display: flex;
+}
+
+.row2 .card{
+    margin: 30px;
+}
+.row2 .card img{
+    padding: 20px;
+}
+
+.container-uslugi h2{
+    text-align: center;
+    padding-top: 30px;
+    text-transform: uppercase;
+
+}
+.container-uslugi{
+    margin-top: 30px;
+    background-image: url(/asset/img/фон.jpg);
+    padding-bottom: 50px;
+    
+}
+
+
+.progress, .progress-stacked {
+    margin: 20px;
+}
+
+.progress, .progress-stacked{
+    --bs-progress-bg: var(--bs-secondary-bg);
+    --bs-secondary-bg: white;
+}
+
+
+.container-password{
+    width: 50%;
+
+}
+
+#sub{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.container-navigation{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.news{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
